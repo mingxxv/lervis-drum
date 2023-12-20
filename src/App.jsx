@@ -15,7 +15,10 @@ function App() {
       </div>
       <p></p>
       <div>
-        Coded with love and boredom in an hour
+        Coded in 10 minutes, and debugged in 3 hours, <i>sigh</i>
+      </div>
+      <div>
+      <a href="https://github.com/mingxxv">Github</a>
       </div>
       <div>
 
